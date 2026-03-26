@@ -38,9 +38,9 @@
 ```json
 {
   "services": [{
-    "service_id": "Temperature",
+    "service_id": "Data",
     "properties": {
-      "value": 26.5,
+      "temperature": 26.5,
       "humidity": 62.1
     }
   }]
